@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "A quick start guide"
+author: "Aleksandr Talitckii"
 categories: documentation
-tags: [documentation,sample]
+tags: [documentation,examples]
 image: cuba-1.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Tessellated Kernels is  a new class of kernel functions. 
 
 ## Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing TKL and nial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
 ## Example Content
 
