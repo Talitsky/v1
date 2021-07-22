@@ -4,7 +4,7 @@ title: "A quick start guide"
 author: "Aleksandr Talitckii"
 categories: facts
 tags: [facts,documentation]
-image: cuba-1.jpg
+image: quick-start-guide.png
 ---
 
 Tessellated Kernels is  a new class of kernel functions.....
