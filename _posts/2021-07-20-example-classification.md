@@ -9,7 +9,7 @@ tags: [examples]
  
  The first example is comparing C-SVC with different kernels 
 
-![alt text](https://https://raw.githubusercontent.com/Talitsky/v1/tree/gh-pages/assets/img/ex1.png "Example Classification")
+![alt text](../assets/img/ex1.png?raw=true "Example Classification")
 
 ```python
 import numpy as np
