@@ -4,9 +4,12 @@ title: "Example Regression"
 author: "AT"
 categories: examples
 tags: [examples]
-image: ex2.png
+image: ex2_logo.png
 ---
 
+![alt text](ex2.png "Example Regression")
+
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import svm, datasets
@@ -49,4 +52,4 @@ for clf, title, ax in zip(models, titles, sub.flatten()):
     ax.set_xlabel('x')
     ax.set_ylabel('y')
     ax.legend()
-    ax.set_title(title)
+    ax.set_title(title)```
