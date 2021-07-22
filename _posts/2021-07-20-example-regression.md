@@ -22,9 +22,7 @@ y = x + np.sin(x)+5*np.sign(x-5)+ np.random.rand(num,1)-0.5
 C = 1.0 
 eps = 0.1
 
-SVM = PMKL.PMKL( C=C, epsilon= eps, to_print = False) 
-# yPred = SVM.predict(X)
-# prediction = np.round(yPred)
+SVM = PMKL.PMKL( C=C, epsilon= eps, to_print = False)  
 
 models = [svm.SVR(kernel='linear', C=C, epsilon = eps), 
           svm.SVR(kernel='rbf', gamma=0.7, C=C, epsilon = eps),
