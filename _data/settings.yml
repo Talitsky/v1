@@ -10,6 +10,7 @@ menu:
 - {name: 'About TKL',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Download',            url: 'download'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Examples',              url: 'examples'}
 - {name: 'Contact',            url: 'contact'}
