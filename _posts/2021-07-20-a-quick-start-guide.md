@@ -19,7 +19,7 @@ To whom is interested in what MKL is, a good paper is [Multiple kernel learning 
 
 ## How to understand the TKL?
 
-What is TKL and how to use it, you can read one of these articles [1](http://control.asu.edu/Publications/2021/Colbert_NIPS_2021.pdf) or [2](https://arxiv.org/abs/1711.05477). And we also have a shortened version on our [website](https://talitsky.github.io/v1/tkl_intro)
+What is TKL and how to use it, you can read one of these articles [1](http://control.asu.edu/Publications/2021/Colbert_NIPS_2021.pdf) or [2](https://arxiv.org/abs/1711.05477). And we also have a shortened version on our [website](https://talitsky.github.io/v1/tkl-intro)
 
 ## Contacts 
 Please, feel free to ask any questions and use this [link](https://talitsky.github.io/v1/contact) to contact us.
