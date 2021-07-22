@@ -3,7 +3,7 @@ layout: post
 title: "Kernel Functions"
 author: "AT"
 categories: documentation
-tags: [documentation,sample]
+tags: [documentation]
 image: city-1.jpg
 ---
 
@@ -19,9 +19,7 @@ Lower, Upper =  x.min(axis = 0) - 0.1 , x.max(axis = 0) + 0.1
 Kernel = KernelFunctions.Kernel(x, Lower, Upper,  q)
 ```
 
-*Kernel* is a special class for fast computing of TK. The first argument of is data points, the second and third are low and upper bounds for samples and the last one is degree of monomial basis.  This object has 2 attributes. The first one is *Kernel.Z*, that is a vector of monomial basis. It stores *numpy.array* object with the shape *(n\_samples, q)* where  
-
-$$q = C_{d+n}^d $$
+*Kernel* is a special class for fast computing of TK. The first argument of is data points, the second and third are low and upper bounds for samples and the last one is degree of monomial basis.  This object has 2 attributes. The first one is *Kernel.Z*, that is a vector of monomial basis. It stores *numpy.array* object with the shape *(n\_samples, q)* where q
 The second attribute is *Kernel.K* is a interior structure for fast computing of TK. 
 
 If you need only monomial basis, then you can use the *monomials(x,d)* function takes a matrix of inputs  *x* and computes the monomial basis *Z* of degree *d* 
