@@ -73,3 +73,10 @@ If True the the algorithm will be print the objective function for each iteratio
 * *predict(X)* Perform classification or regression on samples in X.
 * *predict_proba* Compute probabilities of possible outcomes for samples in X (only for classification). *IT IS NOT IMPLEMENTED*
 * *get_params* *IT IS NOT IMPLEMENTED*
+
+```
+from PMKLpy import PMKL
+SVM = PMKL.PMKL()
+SVM.fit(x, y)
+ypred = SVM.predict(x)
+```
