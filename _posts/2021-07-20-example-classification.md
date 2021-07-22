@@ -9,7 +9,7 @@ tags: [examples]
  
  The first example is comparing C-SVC with different kernels 
 
-![alt text](../assets/img/ex1.png?raw=true "Example Classification")
+![alt text](https://raw.githubusercontent.com/Talitsky/v1/gh-pages/assets/img/ex1.png?raw=true "Example Classification")
 
 This is a example
 
