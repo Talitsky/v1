@@ -9,7 +9,7 @@ tags: [examples]
  
  The first example is comparing C-SVC with different kernels 
 
-![alt text](ex1.png "Example Classification")
+![alt text](assets/img/ex1.png "Example Classification")
 
 ```
 import numpy as np
