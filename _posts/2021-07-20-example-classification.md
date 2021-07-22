@@ -24,9 +24,7 @@ X, y = PMKL.loadex1()
 C = 1.0 
 
 SVM = PMKL.PMKL( C=C, to_print = False) 
-SVM.fit(X, y)
-# yPred = SVM.predict(X)
-# prediction = np.round(yPred)
+SVM.fit(X, y) 
 
 models = [svm.SVC(kernel='linear', C=C), 
           svm.SVC(kernel='rbf', gamma=0.7, C=C),
