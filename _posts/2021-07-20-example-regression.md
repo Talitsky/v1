@@ -9,7 +9,7 @@ image: ex2_logo.png
 
 ![alt text](https://github.com/Talitsky/v1/tree/gh-pages/assets/img/ex2.png "Example Regression")
 
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import svm, datasets
