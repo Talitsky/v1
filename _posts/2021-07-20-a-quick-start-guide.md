@@ -2,8 +2,8 @@
 layout: post
 title: "A quick start guide"
 author: "Aleksandr Talitckii"
-categories: documentation
-tags: [documentation,examples,facts]
+categories: facts
+tags: [facts,documentation]
 image: cuba-1.jpg
 ---
 
