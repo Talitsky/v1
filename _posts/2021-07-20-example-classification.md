@@ -46,4 +46,5 @@ X0, X1 = X[:, 0], X[:, 1]
 xx, yy = make_meshgrid(X0, X1)
 
 for clf, title, ax in zip(models, titles, sub.flatten()):
-    plot_contour_and_points(ax, clf, xx, yy,  X0, X1, y, title, cmap=plt.cm.coolwarm, alpha=0.8)```
+    plot_contour_and_points(ax, clf, xx, yy,  X0, X1, y, title, cmap=plt.cm.coolwarm, alpha=0.8)
+```
