@@ -7,7 +7,7 @@ tags: [examples]
 image: ex2_logo.png
 ---
 
-![alt text](https://raw.githubusercontent.com/Talitsky/v1/tree/gh-pages/assets/img/ex2.png "Example Regression")
+![alt text](../assets/img/ex2.png?raw=true "Example Regression")
 
 ```python
 import numpy as np
