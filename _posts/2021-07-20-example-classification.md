@@ -11,6 +11,8 @@ tags: [examples]
 
 ![alt text](../assets/img/ex1.png?raw=true "Example Classification")
 
+This is a example
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
