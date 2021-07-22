@@ -4,7 +4,7 @@ title: "Example Classification"
 author: "AT"
 categories: examples
 tags: [examples]
-# image: example.png
+image: example.jpg
 ---
  
  The first example is comparing C-SVC with different kernels 

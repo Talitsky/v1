@@ -4,7 +4,7 @@ title: "Example Regression"
 author: "AT"
 categories: examples
 tags: [examples]
-image: example.png
+image: example.jpg
 ---
 
 ![alt text](https://raw.githubusercontent.com/Talitsky/v1/gh-pages/assets/img/ex2.png "Example Regression")
