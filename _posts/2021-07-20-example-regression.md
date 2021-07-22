@@ -29,8 +29,7 @@ models = [svm.SVR(kernel='linear', C=C, epsilon = eps),
           svm.SVR(kernel='poly', degree=3, gamma='auto', C=C, epsilon = eps),
           SVM]
 
-models = [clf.fit(x, y) for clf in models]
-models.append(SVM)
+models = [clf.fit(x, y) for clf in models] 
  
 titles = ['SVR with linear kernel', 
           'SVR with RBF kernel',
