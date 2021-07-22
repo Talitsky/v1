@@ -49,4 +49,5 @@ for clf, title, ax in zip(models, titles, sub.flatten()):
     ax.set_xlabel('x')
     ax.set_ylabel('y')
     ax.legend()
-    ax.set_title(title)```
+    ax.set_title(title)
+```
