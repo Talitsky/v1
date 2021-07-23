@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Example Regression"
-author: "AT"
+# author: "AT"
 categories: examples
 tags: [examples]
 image: ex2.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Example Classification"
-author: "AT"
+# author: "AT"
 categories: examples
 tags: [examples]
 image: ex1.png

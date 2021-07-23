@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kernel Functions"
-author: "AT"
+# author: "AT"
 categories: documentation
 tags: [documentation]
 image: documents-control-plan-kernel.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to use PMKL"
-author: "AT"
+# author: "AT"
 categories: documentation
 tags: [documentation]
 image: documents-control-plan-pmkl.png

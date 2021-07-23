@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A quick start guide"
-author: "Aleksandr Talitckii"
+# author: "Aleksandr Talitckii"
 categories: facts
 tags: [facts,documentation]
 image: quick-start-guide.png
