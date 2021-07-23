@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Example Regre_ssion"
+title: "Example Regression"
 author: "AT"
 categories: examples
 tags: [examples]
