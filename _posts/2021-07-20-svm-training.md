@@ -4,7 +4,7 @@ title: "How to use PMKL"
 author: "AT"
 categories: documentation
 tags: [documentation]
-image: documents-control-plan-icon.png
+image: documents-control-plan-pmkl.png
 ---
 
 ## SVM and optimization

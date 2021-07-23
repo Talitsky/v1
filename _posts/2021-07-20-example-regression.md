@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Example Regression"
+title: "Example Regre_ssion"
 author: "AT"
 categories: examples
 tags: [examples]
-image: example.jpg
+image: example_re.jpg
 ---
 
 ![alt text](https://raw.githubusercontent.com/Talitsky/v1/gh-pages/assets/img/ex2.png "Example Regression")
