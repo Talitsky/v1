@@ -13,10 +13,11 @@ menu:
 - {name: 'Download',            url: 'http://control.asu.edu/TKL/index.html'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Examples',           url: 'examples'}
-- {name: 'Contact',            url: 'https://talitsky.github.io/v1/about-the-author'}
+- {name: 'Contact',            url: 'about-the-author'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'download', link:    'http://control.asu.edu/TKL/index.html'}
 - {icon: 'twitter', link:    'https://twitter.com/'}
 - {icon: 'facebook', link:   'https://www.facebook.com/'}
 - {icon: 'instagram', link:  'https://instagram.com/'}
