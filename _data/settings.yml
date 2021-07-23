@@ -10,13 +10,14 @@ menu:
 - {name: 'About TKL',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Download',            url: 'http://control.asu.edu/TKL/index.html'}
+# - {name: 'Download',            url: 'http://control.asu.edu/TKL/index.html'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Examples',           url: 'examples'}
 - {name: 'Contact',            url: 'about-the-author'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {name: 'download', link:    'http://control.asu.edu/TKL/index.html'}
 - {icon: 'download', link:    'http://control.asu.edu/TKL/index.html'}
 - {icon: 'twitter', link:    'https://twitter.com/'}
 - {icon: 'facebook', link:   'https://www.facebook.com/'}
