@@ -7,7 +7,7 @@ tags: [facts,documentation]
 image: quick-start-guide.png
 ---
 
-Tessellated Kernel Learning (TKL) is a free machine learning MATLAB toolbox for learning optimal Tessellated Kernel (TK) functions for Support Vector Machine (SVM) classification and regression problems. TKs are a class of kernel functions that are ideal for kernel learning because they admit a linear parameterization (tractability); are dense in the set of all kernels (accuracy); and every member is universal so that the hypothesis space is infinite-dimensional (scalability).
+Tessellated Kernel Learning (TKL) is a free machine learning **MATLAB** and **python** toolbox for learning optimal Tessellated Kernel (TK) functions for Support Vector Machine (SVM) classification and regression problems. TKs are a class of kernel functions that are ideal for kernel learning because they admit a linear parameterization (tractability); are dense in the set of all kernels (accuracy); and every member is universal so that the hypothesis space is infinite-dimensional (scalability).
 
 **What can I do with TKL?**
 
