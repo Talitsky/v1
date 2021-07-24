@@ -7,7 +7,14 @@ tags: [facts,documentation]
 image: quick-start-guide.png
 ---
 
-Tessellated Kernels is  a new class of kernel functions.....
+Tessellated Kernel Learning (TKL) is a free machine learning MATLAB toolbox for learning optimal Tessellated Kernel (TK) functions for Support Vector Machine (SVM) classification and regression problems. TKs are a class of kernel functions that are ideal for kernel learning because they admit a linear parameterization (tractability); are dense in the set of all kernels (accuracy); and every member is universal so that the hypothesis space is infinite-dimensional (scalability).
+
+**What can I do with TKL?**
+
+TKL can be used to
+1.  Learn optimal TK kernel functions for a given set of inputs x and outputs y.
+2.  Train a Support Vector Machine (SVM) using the optimal TK kernel function.
+3.  Outputs may be binary (classification) or real valued (regression).
 
 ## How to use TKL
 
@@ -21,5 +28,8 @@ To whom is interested in what MKL is, a good paper is [Multiple kernel learning 
 
 What is TKL and how to use it, you can read one of these articles [1](http://control.asu.edu/Publications/2021/Colbert_NIPS_2021.pdf) or [2](https://arxiv.org/abs/1711.05477). And we also have a shortened version on our [website](https://talitsky.github.io/v1/tkl-intro)
 
-## Contacts 
-Please, feel free to ask any questions and use this [link](https://talitsky.github.io/v1/contact) to contact us.
+## Technical Support 
+
+Our goal is to make use of TKL as simple as humanly possible. However, our background is not in coding and sometimes we come up short. If you are having a serious technical issue and neither the help commands nor the manual are helping, and believe there is a bug in the program, please report it to: [brendon.colbert@asu.edu]. If there is a bug, we will add it to the known bug list and do our best to fix it.
+
+Alternatively, if you would like to volunteer for the TKL development team, we would be happy to include you (no compensation - Sorry). Send an email to [mpeet@asu.edu]
