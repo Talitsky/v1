@@ -31,7 +31,7 @@ If True the the algorithm will be print the objective function for each iteratio
 * *predict_proba* Compute probabilities of possible outcomes for samples in X (only for classification). *IT IS NOT IMPLEMENTED*
 * *get_params* *IT IS NOT IMPLEMENTED*
 
-```
+```python
 from PMKLpy import PMKL
 SVM = PMKL.PMKL()
 SVM.fit(x, y)
