@@ -30,6 +30,6 @@ What is TKL and how to use it, you can read one of these articles [1](http://con
 
 ## Technical Support 
 
-Our goal is to make use of TKL as simple as humanly possible. However, our background is not in coding and sometimes we come up short. If you are having a serious technical issue and neither the help commands nor the manual are helping, and believe there is a bug in the program, please report it to: [brendon.colbert@asu.edu]. If there is a bug, we will add it to the known bug list and do our best to fix it.
+Our goal is to make use of TKL as simple as humanly possible. However, our background is not in coding and sometimes we come up short. If you are having a serious technical issue and neither the help commands nor the manual are helping, and believe there is a bug in the program, please report it to: [brendon.colbert@asu.edu](brendon.colbert@asu.edu). If there is a bug, we will add it to the known bug list and do our best to fix it.
 
-Alternatively, if you would like to volunteer for the TKL development team, we would be happy to include you (no compensation - Sorry). Send an email to [mpeet@asu.edu]
+Alternatively, if you would like to volunteer for the TKL development team, we would be happy to include you (no compensation - Sorry). Send an email to [mpeet@asu.edu](mpeet@asu.edu)
