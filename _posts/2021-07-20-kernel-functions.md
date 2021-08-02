@@ -4,7 +4,7 @@ title: "Kernel Functions"
 # author: "AT"
 categories: documentation
 tags: [documentation]
-image: documents-control-plan-kernel.png
+image: kernels.jpg
 ---
 
 ## Kernel Functions 
