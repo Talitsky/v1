@@ -4,7 +4,7 @@ title: "Kernel Functions"
 # author: "AT"
 categories: documentation
 tags: [documentation]
-image: kernels.jpg
+image: kernels2.jpg
 ---
 
 ## Kernel Functions 
