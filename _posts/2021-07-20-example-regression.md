@@ -7,15 +7,17 @@ tags: [examples]
 image: regression.jpg
 ---
 
-<!-- ![alt text](https://raw.githubusercontent.com/Talitsky/v1/gh-pages/assets/img/ex2.png "Example Regression") -->
+![alt text](https://raw.githubusercontent.com/Talitsky/v1/gh-pages/assets/img/ex2.png "Example Regression")
+
+This example shows a comparative analysis for various simple kernels, such as RBF, Poly, and linear. We generated the data and showed how the decision function depends on the kernel. TKL proved to be quite effective.
 
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import svm, datasets
 from PMKLpy import PMKL 
-num = 100;
-x = 10.*np.random.rand(num,1);
+num = 100
+x = 10.*np.random.rand(num,1)
 y = x + np.sin(x)+5*np.sign(x-5)+ np.random.rand(num,1)-0.5
 C = 1.0 
 eps = 0.1

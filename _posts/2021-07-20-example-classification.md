@@ -7,11 +7,10 @@ tags: [examples]
 image: class.jpg
 ---
  
- The first example is comparing C-SVC with different kernels 
 
-<!-- ![alt text](https://raw.githubusercontent.com/Talitsky/v1/gh-pages/assets/img/ex1.png?raw=true "Example Classification") -->
+![alt text](https://raw.githubusercontent.com/Talitsky/v1/gh-pages/assets/img/ex1.png?raw=true "Example Classification")
 
-This is a example
+In this example, we compared kernels for classification on circle data. As expected, the RBF kernel showed itself quite well, as well as the TKL.
 
 ```python
 import numpy as np

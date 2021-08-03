@@ -36,6 +36,12 @@ Z = Transformation.monomials(x, 1)
 To compute TK, the user need to call *makeK* function 
 
 ```python
+import numpy as np
+from PMKLpy import KernelFunctions
+x = np.random.rand(100, 1)
+q = 1
+Lower, Upper =  x.min(axis = 0) - 0.1 , x.max(axis = 0) + 0.1
+Kernel = KernelFunctions.Kernel(x, Lower, Upper,  q)
 TK = KernelFunctions.makeK(Kernel, P) 
 ```
 *makeK* is a function that returns a Kernel matrix *(n\_samples, n\_samples)*. It requires a *P* matrix of the form *(2q, 2q)* and an object Kernel. 
