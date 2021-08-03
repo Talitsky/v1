@@ -21,7 +21,7 @@
 }
 @media (max-width: $container-width) {
   .container {
-    width: 95vw;
+    width: 900px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -29,6 +29,6 @@
     padding-top: $header-thickness+10px;
     margin: auto;
     display: block;
-    width: 95vw;
+    width: 900px;
   }
 }
