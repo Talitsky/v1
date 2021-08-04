@@ -18,7 +18,7 @@ TKL can be used to
 
 ## How to use TKL
 
-If you only want to use TKL-SVM or build a Tessellated kernel, please look at these examples [1](https://talitsky.github.io/v1/example-regression) and [2](https://talitsky.github.io/v1/example-classification), as well as the basic functions for the [kernel](https://talitsky.github.io/v1/svm-training) and the [model construction](https://talitsky.github.io/v1/svm-training).
+If you only want to use TKL-SVM or build a Tessellated kernel, please look at these examples [1](https://talitsky.github.io/v1/example-regression) and [2](https://talitsky.github.io/v1/example-classification), as well as the basic functions for the [kernel](https://talitsky.github.io/v1/svm-training) and the [model construction](https://talitsky.github.io/v1/svm-training). Also you can download our [manual](https://github.com/Talitsky/PMKL/raw/main/TKL_User_Manual.pdf)
 
 ## What is Multiple Kernel Learning? 
 

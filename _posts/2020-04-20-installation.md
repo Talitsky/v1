@@ -22,3 +22,5 @@ or
 ```
 pip3 install PMKLpy
 ```
+
+Please, look at our examples [1](https://talitsky.github.io/v1/example-regression) and [2](https://talitsky.github.io/v1/example-classification) or read our [manual](https://github.com/Talitsky/PMKL/raw/main/TKL_User_Manual.pdf)
